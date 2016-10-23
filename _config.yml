@@ -5,8 +5,8 @@ title: "G. Lemaitre"
 description: "Personal website of Guillaume Lemaitre"
 keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
 baseurl: "/"
-# url: "http://glemaitre.github.io"
-url: "http://127.0.0.1:4000"
+url: "http://glemaitre.github.io"
+# url: "http://127.0.0.1:4000"
 
 # author
 author:
