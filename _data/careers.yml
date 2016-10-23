@@ -1,55 +1,69 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Joint PhD at UdG-UBFC
+    i18n: phd
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: In November 2016, I graduated from a joint PhD from the Universitat de Girona and the Universite de Bourgogne France-Comte. My thesis was entitled "Computer-Aided Diagnosis for Prostate Cancer using Multi-Parametric Magnetic Resonance Imaging".
+    i18n: phd_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Jun. 2012 - Nov. 2016
+    i18n: phd_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: PhD candidate
+    i18n: phd_job
+  icon: fa-search
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Temporary associate professor at UBFC
+    i18n: phd
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: From March 2015 to March 2016, I was temporary associate professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
+    i18n: phd_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Mar. 2015 - Mar. 2016
+    i18n: ater_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: ATER
+    i18n: ater_job
+  icon: fa-search
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: MSc in Business Innovation and Technology Management (BITM) at UdG
+    i18n: bitm
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: In September 2014, I graduated from a Master in Business Innovation and Technology Management. My final thesis "Valorisation of Computerized Technology in the Health Care Sector".
+    i18n: bitm_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: Sep. 2012 - Sep. 2014
+    i18n: bitm_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+    detail: MSc student candidate
+    i18n: bitm_job
+  icon: fa-book
 
 - name:
-    detail: Graduation
-    i18n: college
+    detail: Barcelona Digital
+    i18n: bd
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: From September 2011 to June 2012, I was researcher at Barcelona Digital focusing on object recognition and more precisely traffic sign detection.
+    i18n: bd_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Sep. 2011 - Jun. 2012
+    i18n: bd_date
   job:
-    detail: Student
-    i18n: college_job
+    detail: Intern researcher
+    i18n: bd_job
+  icon: fa-search
+
+- name:
+    detail: Erasmus Mundus MSc in Vision and Robotics (Vibot) at HWU-UdG-UBFC
+    i18n: vibot
+  desc:
+    detail: In September 2011, I graduated from a Master in Vision and Robotics. My final thesis was entitled "Absolute Quantification in 1H MRSI of the Prostate at 3T".
+    i18n: vibot_des
+  date:
+    detail: Sep. 2009 - Sep. 2011
+    i18n: vibot_date
+  job:
+    detail: MSc student candidate
+    i18n: vibot_job
   icon: fa-book

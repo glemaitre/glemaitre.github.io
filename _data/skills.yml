@@ -1,17 +1,41 @@
+- name: Medical Imaging
+  percentage: 95
+
 - name: Python
+  percentage: 95
+
+- name: Prostate Cancer
+  percentage: 95
+
+- name: C/C++
+  percentage: 80
+
+- name: Retinopathy
+  percentage: 85
+
+- name: Git
+  percentage: 98
+
+- name: Pattern Recognition
+  percentage: 90
+
+- name: Linux/Unix
+  percentage: 95
+
+- name: Machine Learning
+  percentage: 90
+
+- name: Matlab
+  percentage: 90
+
+- name: Data Mining
+  percentage: 90
+
+- name: Latex
+  percentage: 95
+
+- name: Computer Vision
   percentage: 85
 
 - name: HTML/CSS
-  percentage: 65
-
-- name: Linux/Shell
-  percentage: 75
-
-- name: jQuery
-  percentage: 70
-
-- name: AngularJS
   percentage: 80
-
-- name: Ionic
-  percentage: 65

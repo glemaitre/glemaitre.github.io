@@ -7,13 +7,14 @@
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
+    "publications": "Publications",
     "career": "Career",
     "blog": "Blog",
     "link": "Link"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -43,6 +44,9 @@
     "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
     "college_date": "Jul. 2013",
     "college_job": "Student"
+  },
+  "publications":{
+    "my_publications": "My Publications"
   },
   "blog":{
     "my_blog": "My Blog"
