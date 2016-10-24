@@ -16,6 +16,7 @@ author:
   email: 'g.lemaitre58@gmail.com'
   linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
   github_username: 'glemaitre'
+  scholar_username: 'https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en'
   head_img: 'static/img/landing/picture.png'
   desc: 'I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data.'
 

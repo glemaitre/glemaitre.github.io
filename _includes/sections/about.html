@@ -29,11 +29,10 @@
                 <img src="{{ site.author.head_img | prepend: site.baseurl }}" height="110" width="110" class="img-responsive img-circle" alt="">
                 <h4><span class="navy">{{ site.author.last_name }}</span> {{ site.author.first_name }}</h4>
                 <ul class="list-inline social-icon">
-                    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a>
-                    </li>
+                    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
+                    <li><a href="{{ site.author.scholar_username }}" target="blank"><i class="ai ai-google-scholar"></i></a></li>
 		    <li><a href="{{ site.author.linkedin_username }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a>
-                    </li>
+                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                 </ul>
             </div>
         </div>

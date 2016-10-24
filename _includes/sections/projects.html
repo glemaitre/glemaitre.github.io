@@ -5,6 +5,12 @@
             <h1><span data-i18n="projects.my_projects">My Projects</span></h1>
         </div>
     </div>
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <p><a href="https://github.com/glemaitre"><i class="fa fa-github fa-3x"></i></a></p>
+      <p><a href="https://github.com/glemaitre">GitHub</i></a></p>
+    </div>
+  </div>
     <div class="row">
         {% for project in site.data.projects %}
             {% assign loopindex = forloop.index | modulo: 2 %}
