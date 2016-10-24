@@ -13,10 +13,10 @@
   icon: fa-search
 
 - name:
-    detail: Temporary associate professor at UBFC
+    detail: Temporary assistant professor at UBFC
     i18n: phd
   desc:
-    detail: From March 2015 to March 2016, I was temporary associate professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
+    detail: From March 2015 to March 2016, I was temporary assistant professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
     i18n: phd_des
   date:
     detail: Mar. 2015 - Mar. 2016
