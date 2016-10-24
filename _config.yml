@@ -18,7 +18,7 @@ author:
   github_username: 'glemaitre'
   scholar_username: 'https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en'
   head_img: 'static/img/landing/picture.png'
-  desc: 'I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data.'
+  desc: 'I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data.'
 
 # sections
 sections:
