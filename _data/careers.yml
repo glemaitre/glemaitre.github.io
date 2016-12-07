@@ -1,8 +1,8 @@
 - name:
     detail: Post-doc at INRIA Saclay Ile-de-France/Paris-Saclay Center for Data Science
     i18n: postdoc
-  desc: From December 2016 to March 2018, I am a post-doc between the PARIETAL team from INRIA Saclay Ile-de-France and the Paris-Saclay Center for Data Science.
-    detail: .
+  desc:
+    detail: From December 2016 to March 2018, I am a post-doc between the PARIETAL team from INRIA Saclay Ile-de-France and the Paris-Saclay Center for Data Science.
     i18n: postdoc_des
   date:
     detail: Dec. 2016 - March. 2018
