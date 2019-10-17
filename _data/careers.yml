@@ -1,11 +1,25 @@
 - name:
+    detail: Engineer at the scikit-learn foundation at Inria
+    i18n: postdoc
+  desc:
+    detail: From February 2019, I am an engineer in the scikit-learn foundation @ Inria. I am focusing on the development and maintenance of scikit-learn which is a machine-learning Python package.
+    i18n: eng_des
+  date:
+    detail: Feb. 2019 - Now
+    i18n: eng_date
+  job:
+    detail: Engineer
+    i18n: eng_job
+  icon: fa-search
+
+- name:
     detail: Post-doc at INRIA Saclay Ile-de-France/Paris-Saclay Center for Data Science
     i18n: postdoc
   desc:
     detail: From December 2016 to December 2018, I am a post-doc between the PARIETAL team from INRIA Saclay Ile-de-France and the Paris-Saclay Center for Data Science.
     i18n: postdoc_des
   date:
-    detail: Dec. 2016 - Dec. 2018
+    detail: Dec. 2016 - Feb. 2019
     i18n: postdoc_date
   job:
     detail: Post-doc
