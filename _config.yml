@@ -3,69 +3,69 @@
 # Website settings
 title: "Guillaume Lemaitre"
 description: "Personal website of Guillaume Lemaitre"
-keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
+keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate,scikit-learn,sklearn,imblearn,imbalanced-learn"
 baseurl: "/"
 url: "http://glemaitre.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Lemaitre'
-  first_name: 'Guillaume'
-  last_name: 'Lemaitre'
-  email: 'g.lemaitre58@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
-  github_username: 'glemaitre'
-  scholar_username: 'https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en'
-  head_img: 'static/img/landing/picture.png'
-  desc: 'I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data.'
+  name: "Lemaitre"
+  first_name: "Guillaume"
+  last_name: "Lemaitre"
+  email: "g.lemaitre58@gmail.com"
+  linkedin_username: "https://www.linkedin.com/in/guillaume-lemaitre-b9404939"
+  github_username: "glemaitre"
+  scholar_username: "https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en"
+  head_img: "static/img/landing/picture.png"
+  desc: "I am currently an engineer working on the maintenance of scikit-learn, a machine learning package in Python."
 
 # sections
 sections:
-  - id: 'about-me'
-    i18n: 'nav.about_me'
-    name: 'About'
-    tpl: 'about.html'
-    css: ''
+  - id: "about-me"
+    i18n: "nav.about_me"
+    name: "About"
+    tpl: "about.html"
+    css: ""
 
-  - id: 'career'
-    i18n: 'nav.career'
-    name: 'Career'
-    tpl: 'career.html'
-    css: 'timeline'
+  - id: "career"
+    i18n: "nav.career"
+    name: "Career"
+    tpl: "career.html"
+    css: "timeline"
 
-  - id: 'skills'
-    i18n: 'nav.skills'
-    name: 'Skills'
-    tpl: 'skills.html'
-    css: 'team'
+  - id: "skills"
+    i18n: "nav.skills"
+    name: "Skills"
+    tpl: "skills.html"
+    css: "team"
 
-  - id: 'projects'
-    i18n: 'nav.projects'
-    name: 'Projects'
-    tpl: 'projects.html'
-    css: 'project'
+  - id: "projects"
+    i18n: "nav.projects"
+    name: "Projects"
+    tpl: "projects.html"
+    css: "project"
 
-  - id: 'publications'
-    i18n: 'nav.publications'
-    name: 'Publications'
-    tpl: 'publications.html'
-    css: 'publications'
+  - id: "publications"
+    i18n: "nav.publications"
+    name: "Publications"
+    tpl: "publications.html"
+    css: "publications"
 
 # localization
 languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
+  - locale: "en"
+    flag: "static/img/flags/United-States.png"
   # - locale: 'zh'
   #   flag: 'static/img/flags/China.png'
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: "http://www.jack003.com/static/img/blog"
 
 # donate
 donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+  wechat: "static/img/pay/wechat.png"
+  alipay: "static/img/pay/alipay.png"
 
 # comment
 changyan:
@@ -100,4 +100,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
