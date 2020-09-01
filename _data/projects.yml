@@ -7,5 +7,5 @@
 - name: "scikit-learn"
   i18n: "sklearn"
   url: "/scikit-learn/scikit-learn"
-  img: "https://github.com/scikit-learn/scikit-learn/raw/master/doc/images/scikit-learn-logo-small.png"
+  img: "https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/images/scikit-learn-logo-notext.png"
   desc: "Machine learning in Python."
