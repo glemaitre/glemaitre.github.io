@@ -13,12 +13,10 @@
   </div>
   <div class="row">
     <div class="col-lg-6 text-center">
-      <h1><span data-i18n="skills.my_skills">Research</span></h1>
     </div>
     <div class="col-lg-6 text-center">
-      <h1><span data-i18n="skills.my_skills">Technical</span></h1>
     </div>
-  </div>	  
+  </div>
   <div class="row features-block">
     {% for skill in site.data.skills %}
     {% assign loopindex = forloop.index | modulo: 2 %}
