@@ -1,23 +1,11 @@
-- name: 'I2CVB Prostate'
-  i18n: 'prostate'
-  url: '/I2Cvb/prostate'
-  img: 'static/img/landing/i2cvb.png'
-  desc: 'Repository associated with our medical imaging development related to prostate cancer.'
+- name: "imbalanced-learn"
+  i18n: "imblearn"
+  url: "/scikit-learn-contrib/imbalanced-learn"
+  img: "static/img/landing/sklearncontrib.png"
+  desc: "Python package to tackle the problem of imbalanced dataset by performing under- and over-sampling with various techniques."
 
-- name: 'I2CVB Retinopathy'
-  i18n: 'retinopathy'
-  url: '/I2Cvb/retinopathy'
-  img: 'static/img/landing/i2cvb.png'
-  desc: 'Repository associated with our medical imaging development related to retinopathy.'
-
-- name: 'imbalanced-learn'
-  i18n: 'imblearn'
-  url: '/scikit-learn-contrib/imbalanced-learn'
-  img: 'static/img/landing/sklearncontrib.png'
-  desc: 'Python module to tackle the problem of imbalanced dataset by performing under- and over-sampling with various techniques.'
-
-- name: 'Traffic signs detection'
-  i18n: 'traffic'
-  url: '/glemaitre/traffic-sign-detection'
-  img: 'static/img/landing/signs.jpg.png'
-  desc: 'Real-time traffic sign detection using Gielis curves.'
+- name: "scikit-learn"
+  i18n: "sklearn"
+  url: "/scikit-learn/scikit-learn"
+  img: "https://github.com/scikit-learn/scikit-learn/raw/master/doc/images/scikit-learn-logo-small.png"
+  desc: "Machine learning in Python."
