@@ -8,7 +8,7 @@
   i18n: "imblearn"
   url: "/scikit-learn-contrib/imbalanced-learn"
   img: "https://imbalanced-learn.org/stable/_static/logo_wide.png"
-  desc: "Python package to tackle the problem of imbalanced dataset by performing under- and over-sampling with various techniques."
+  desc: "Tackling imbalanced classification problems."
 
 - name: "skrub"
   i18n: "skrub"
