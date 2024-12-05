@@ -10,7 +10,7 @@
   job:
     detail: Lead OSS Engineer
     i18n: eng_job
-  icon: fa-search
+  icon: fa-laptop
 
 - name:
     detail: Engineer at the scikit-learn foundation at Inria
@@ -24,7 +24,7 @@
   job:
     detail: OSS Engineer
     i18n: eng_job
-  icon: fa-search
+  icon: fa-laptop
 
 - name:
     detail: Post-doc at INRIA Saclay Ile-de-France/Paris-Saclay Center for Data Science
