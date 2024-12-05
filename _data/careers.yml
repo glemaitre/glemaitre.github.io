@@ -8,7 +8,7 @@
     detail: Feb. 2024 - Now
     i18n: eng_date
   job:
-    detail: Engineer
+    detail: Lead OSS Engineer
     i18n: eng_job
   icon: fa-search
 
@@ -22,7 +22,7 @@
     detail: Feb. 2019 - Feb. 2024
     i18n: eng_date
   job:
-    detail: Engineer
+    detail: OSS Engineer
     i18n: eng_job
   icon: fa-search
 
