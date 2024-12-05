@@ -1,11 +1,25 @@
 - name:
+    detail: Co-founder & Lead open source software engineer at :probabl.
+    i18n: postdoc
+  desc:
+    detail: From February 2024, I'm part of the co-founder that spin-off the Probabl company. At Probabl, I'm lead open source software engineer where I'm helping and organizing the development of scikit-learn and some other open source projects from its ecosystem.
+    i18n: eng_des
+  date:
+    detail: Feb. 2024 - Now
+    i18n: eng_date
+  job:
+    detail: Engineer
+    i18n: eng_job
+  icon: fa-search
+
+- name:
     detail: Engineer at the scikit-learn foundation at Inria
     i18n: postdoc
   desc:
     detail: From February 2019, I am an engineer in the scikit-learn foundation @ Inria. I am focusing on the development and maintenance of scikit-learn which is a machine-learning Python package.
     i18n: eng_des
   date:
-    detail: Feb. 2019 - Now
+    detail: Feb. 2019 - Feb. 2024
     i18n: eng_date
   job:
     detail: Engineer
