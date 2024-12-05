@@ -48,7 +48,7 @@ sections:
 
   - id: "publications"
     i18n: "nav.publications"
-    name: "Publications"
+    name: "Communications"
     tpl: "publications.html"
     css: "publications"
 
