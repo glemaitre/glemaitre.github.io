@@ -18,7 +18,7 @@ author:
   github_username: "glemaitre"
   scholar_username: "https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en"
   head_img: "static/img/landing/picture.png"
-  desc: "I am currently an engineer working on the maintenance of scikit-learn, a machine learning package in Python."
+  desc: "I am lead open source software engineer at :probabl. working on the development of scikit-learn and its ecosystem."
 
 # sections
 sections:
