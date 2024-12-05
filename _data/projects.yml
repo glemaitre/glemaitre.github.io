@@ -16,8 +16,8 @@
   img: "https://raw.githubusercontent.com/skrub-data/skrub/refs/heads/main/doc/_static/skrub.svg"
   desc: "Prepping tables for machine learning."
 
-- name: "scikit-learn MOOC"
-  i18n: "sklearn-mooc"
+- name: "MOOC"
+  i18n: "mooc"
   url: "INRIA/scikit-learn-mooc"
   img: "https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/images/scikit-learn-logo-notext.png"
   desc: "Free MOOC about scikit-learn."
