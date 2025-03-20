@@ -1,8 +1,8 @@
 - name:
-    detail: Co-founder & Lead open source software engineer at :probabl.
+    detail: Co-founder & chief machine learning officer & open source software engineer at :probabl.
     i18n: postdoc
   desc:
-    detail: From February 2024, I'm part of the co-founders that spin-off the Probabl company. At Probabl, I'm lead open source software engineer where I'm helping and organizing the development of scikit-learn and some other open source projects related to the scikit-learn ecosystem.
+    detail: From February 2024, I'm part of the co-founders that spin-off the Probabl company. At Probabl, I'm chief machine learning officer and open source software engineer where I'm helping and organizing the development of scikit-learn and some other open source projects related to the scikit-learn ecosystem.
     i18n: eng_des
   date:
     detail: Feb. 2024 - Now
